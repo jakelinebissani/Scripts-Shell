@@ -40,4 +40,3 @@ echo ""
 
 # Chama outro script pra realizar a mudança da versão na dependencia do pom
 sh $ChangeVersion $PomChanging $Concat
-~
